@@ -4,4 +4,5 @@ public class Jiyeon {
 
     private String name;
     private int age;
+    private String email;
 }
